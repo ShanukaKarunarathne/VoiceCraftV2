@@ -1,0 +1,10 @@
+streamlit==1.28.0
+librosa==0.10.1
+soundfile==0.12.1
+noisereduce==3.0.0
+numpy==1.24.3
+openai-whisper==20231117
+torch==2.1.0
+ipywidgets==8.1.1
+f5-tts==1.0.8
+matplotlib==3.7.3
